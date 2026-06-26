@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fr0zenY0gurt.aternos.me",
+    "ip": "Fr0zenY0gurt.aternos.me:44904",
     "port": 44904,
     "version": "",
     "try-creative": false
